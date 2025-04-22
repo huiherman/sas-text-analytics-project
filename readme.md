@@ -31,4 +31,7 @@ This analysis supports better customer service training and enhances complaint r
 ## Download the Presentation
 https://github.com/huiherman/sas-text-analytics-project/raw/main/Text_Analytics_SAS_Presentation.pptx
 
-
+## Author
+Herman Hui  
+MBA – Business Analytics  
+2025W2 Cohort – ITIS5408V
