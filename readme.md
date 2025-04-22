@@ -28,4 +28,7 @@ This project showcases the use of Natural Language Processing (NLP) and Network 
 ## Outcome
 This analysis supports better customer service training and enhances complaint response strategies using data-driven insights.
 
+## 👉 Download the Presentation
+[Text_Analytics_SAS_Presentation_v2.pptx](./Text_Analytics_SAS_Presentation_v2.pptx)
+
 
